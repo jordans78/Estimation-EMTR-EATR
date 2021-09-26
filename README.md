@@ -10,4 +10,6 @@ EATR assess tax distortions to investment choice (e.g. location), taking into ac
 
 
 
-![Comparison](https://github.com/jordans78/Estimation-EMTR-EATR/blob/main/Python/Documentation/METR%26AETR.png)
+![Comparison of EMTR and EATR](https://github.com/jordans78/Estimation-EMTR-EATR/blob/main/Python/Documentation/METR%26AETR.png)
+
+It can be clearly seen that the scope of EMTRs in EU-28 varies from -13.9% in Malta to 36% in Spain, while at an EU-28 level it is 13.3%. The Republic of North Macedonia has EMTR of 3.8%, or in comparison to EU-28, only Malta, Portugal, Estonia and Cyprus have lower rates. Тhe scope of EATRs in EU-28 varies from 9% in Bulgaria, to 33.4% in France, while at an EU-28 level it is 19.8%. The Republic of North Macedonia has EATRs of 9.7%, or in comparison to EU-28, only Bulgaria hаs a lower rate of 9%.
