@@ -1,6 +1,6 @@
 # Estimation-EMTR-EATR
 
-** Estimation of  EMTRs (effective marginal tax rates) and EATRs (effective average tax rates) for CIT (Corporate income tax) with Devereux Griffith method **
+## Estimation of  EMTRs (effective marginal tax rates) and EATRs (effective average tax rates) for CIT (Corporate income tax) with Devereux Griffith method 
 
 In order to see how the effective level of taxation with CIT (not just statutory tax rate) affected the investments, with this repository can be estimated EMTRs (effective marginal tax rates) and EATRs (effective average tax rates). Both measures are based on ‘forward looking’ approach, and are widely used in the empirical analysis of the sensitivity of investment to taxation.
 
